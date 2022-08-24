@@ -1,0 +1,16 @@
+{
+  "buybox-context.title": "Buybox 文本",
+  "buybox-context.sortStrategy-title": "排序策略",
+  "buybox-context.sortStrategy-description": "配置策略，在 Buybox 中對賣家進行排名",
+  "buybox-context.triggerCepChangeEvent-title": "觸發郵政編碼更改事件",
+  "buybox-context.triggerCepChangeEvent-description": "配置哪個事件將用於 Buybox 中的賣家排名",
+  "buybox-context.price.label": "價格",
+  "buybox-context.price-and-shipping.label": "價格和配送",
+  "buybox-context.custom-expression": "自定義表達式",
+  "buybox-context.protocol": "協議",
+  "buybox-context.order-form.label": "訂貨單",
+  "buybox-context.seller-selector.label": "賣家選擇器",
+  "buybox-context.expression-title": "表達式",
+  "buybox-context.expression-description": "配置表達式對賣家進行排名：productPrice、productSpotPrice、productAvailableQuantity、minShippingPrice、maxShippingPrice、minShippingEstimate、maxShippingEstimate",
+  "buybox-context.protocol-error": "執行排序協議時發生錯誤，將排序策略更改爲價格。"
+}
