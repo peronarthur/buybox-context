@@ -1,0 +1,15 @@
+{
+  "name": "Buybox",
+  "headline": "展示不同賣家同售的產品，以進行比價",
+  "overview": "有了這款應用程式，您將能夠定義一個產品的賣家資格規則，並向客戶展示最好的價格。",
+  "additionalInformation": "安裝此應用程式後，您必須在商店主題中對產品內容進行配置。",
+  "features": [
+    "根據自定義的標準對產品的賣家進行排名",
+    "使用帶有產品屬性的表達式創建自己的排序策略",
+    "靈活使用預定義或自定義排序設定"
+  ],
+  "websiteURL": "https://vtex.com/",
+  "support": {
+    "url": "https://support.vtex.com/hc/requests"
+  }
+}
